@@ -1,0 +1,13 @@
+<!--
+  Agrega estas claves dentro de <dict> en:
+  ios/Runner/Info.plist
+-->
+
+<key>NSCameraUsageDescription</key>
+<string>Necesitamos la cámara para tomar fotos de evidencia</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Necesitamos acceso a tu galería para elegir imágenes</string>
+
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>Para guardar las fotos que tomes en tu galería</string>
